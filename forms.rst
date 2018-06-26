@@ -32,8 +32,7 @@ Creating a Simple Form
 ----------------------
 
 Suppose you're building a simple todo list application that will need to
-display "tasks". Because your users will need to edit and create tasks, you're
-going to need to build a form. But before you begin, first focus on the generic
+display "tasks". Because your users will need to edit and create tasks you will need to build a form. But before you begin, first focus on the generic
 ``Task`` class that represents and stores the data for a single task::
 
     // src/Entity/Task.php
